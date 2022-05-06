@@ -1,0 +1,6 @@
+.VSCodeCounter/
+node_modules/
+.env
+db.sqlite
+package.json
+package-lock.json

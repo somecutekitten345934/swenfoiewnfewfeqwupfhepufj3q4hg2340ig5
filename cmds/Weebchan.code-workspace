@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\Weebchan"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\HypixelBridge"
+		},
+		{
+			"path": "..\\..\\Weebchan Mod"
+		}
+	],
+	"settings": {
+		"discord.detailsEditing": "Editing {file_name} - {total_lines} lines"
+	}
+}

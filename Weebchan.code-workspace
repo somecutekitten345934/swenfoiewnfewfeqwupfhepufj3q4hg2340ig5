@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\Testchan"
+		},
+		{
+			"path": "..\\..\\AppData\\Roaming\\.minecraft\\config\\ChatTriggers\\modules\\NekoQOL"
+		},
+		{
+			"path": "..\\ExampleBot"
+		},
+		{
+			"path": "..\\HypixelBridge"
+		}
+	],
+	"settings": {}
+}

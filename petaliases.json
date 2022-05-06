@@ -1,0 +1,610 @@
+{
+    "Dwerd": {
+        "$ORIGINAL_PURCHASER_ID": "216749228087705610",
+        "DISPLAY_NAME": "Dwerd",
+        "EMOJIS": [
+            ":watermelon:",
+            ":guitar:", 
+            "<a:hero:780398361219825674>",
+            ":fish_cake:", 
+            "<a:smart:780399508072300574>",
+            "<a:blobsweats:780399976354021396>",
+            ":fire:",
+            "<a:hearts_blue:780400703084167179>",
+            ":pizza:",
+            "https://cdn.discordapp.com/avatars/509798534204096513/cac616544cd2c97b4efdb673a3ad2f61.png"
+        ]
+    },
+    "Junior": {
+        "$ORIGINAL_PURCHASER_ID": "216749228087705610",
+        "DISPLAY_NAME": "Junior",
+        "EMOJIS": [
+            "⚽️", 
+            "<:energy:788396700276490270>", 
+            "<:experience:788399040210796585>",
+            "<:credits:788399780895391764>",
+            ":brain:",
+            "<:endurance:788400492639158302>",
+            "<:strength:788404415375736863>",
+            ":heart:", 
+            ":pizza:",
+            "https://cdn.discordapp.com/avatars/509798534204096513/cac616544cd2c97b4efdb673a3ad2f61.png"
+        ]
+    },
+    "Yue": {
+        "$ORIGINAL_PURCHASER_ID": "216749228087705610",
+        "DISPLAY_NAME": "Yue",
+        "EMOJIS": [
+            "<a:YueHealth:814041327506948126>",
+            "<a:YueEnergy:814032111249653780>",
+            "<a:YueExp:814039979297865728>",
+            "<a:YueCredits:814038428109897760>",
+            "<:YueIntel:814034496319651860>",
+            "<a:YueEndur:814037643825381386>",
+            "<a:YueStrength:814037347221504011>",
+            "<a:YueAffection:814039321371475989>",
+            "<:YueGlyc:814034206639915058>",
+            "https://i.gyazo.com/79a163d371f8473fe72a73d1930428d2.jpg"
+        ]
+    },
+    "Nyx": {
+        "$ORIGINAL_PURCHASER_ID": "715059962031636522;216749228087705610",
+        "DISPLAY_NAME": "Nyx",
+        "EMOJIS": [
+            "<:emoji_34:789063594913431582>",
+            "<a:CocoOkite:789776724660715530>",
+            "<a:FubukiSlurp:789776708223762442>",
+            "<:emoji_41:789063552379387904>",
+            "<a:emoji_33:789063622197641267>",
+            "<a:SuiseiSlam:789776700246458388>",
+            "<a:FubukiDance:789776717413220362>",
+            "<a:CatHeadpat:789776728335187998>",
+            "<a:TogaLewd:789776703139741696>",
+            "https://cdn.discordapp.com/avatars/509798534204096513/cac616544cd2c97b4efdb673a3ad2f61.png"
+        ]
+    },
+    "Kanna": {
+        "$ORIGINAL_PURCHASER_ID": "216749228087705610",
+        "DISPLAY_NAME": "Kanna",
+        "EMOJIS": [
+            "<:KannaHealth:812123193568657418>",
+            "<:KannaEner:812123143601782787>",
+            "<:KannaEXP:812131876386897930>",
+            "<:KannaCred:812123157137719327>",
+            "<:KannaIntel:812123182135377921>",
+            "<:KannaEndur:812123134148345877>",
+            "<:KannaStrength:812132058301988904>",
+            "<:KannaAffection:812123202544205855>",
+            "<:KannaGlyc:812123168272810016>",
+            "https://cdn.discordapp.com/attachments/808123360655573022/820880796620947486/Loli-Dragon-GIF-Loli-Dragon-Anime-Discover-and-Share-GIFs.gif"
+        ]
+    },
+    "Kaede": {
+        "$ORIGINAL_PURCHASER_ID": "216749228087705610",
+        "DISPLAY_NAME": "Kaede",
+        "EMOJIS": [
+            "<a:AstolfoHealth:821320393524117545>",
+            "<a:AstolfoEnergy:821320383101534222>",
+            "<a:AstolfoExperience:821320710441140274>",
+            "<:AstolfoCredits:821320689981849601>",
+            "<:AstolfoIntel:821320369649614848>",
+            "<a:AstolfoEndurance:821320337777885194>",
+            "<:AstolfoStrength:821320324208656395>",
+            "<:AstolfoAffection:821320309516795935>",
+            "<:AstolfoGylc:821320297755049995>",
+            "https://i.gyazo.com/9f2a6f8714bc871c42097d9a2b3bec60.gif"
+        ]
+    },
+    "Tohka": {
+        "$ORIGINAL_PURCHASER_ID": "809207380302233620",
+        "DISPLAY_NAME": "Tohka",
+        "EMOJIS": [
+            "<a:596130138765393920:912888561500561409> ",
+            "<a:885155537291968532:912888561638973491> ",
+            "<:696136193863057440:912888561542508565> ",
+            "<:650758678718185512:912888561286652006> ",
+            "<a:642012783298347011:912888561487982682> ",
+            "<:596130138379386886:912888561454444574>",
+            "<:874339094111612929:912888561089511425> ",
+            "<a:596130138773520394:912888561181814815>",
+            "<:638220471497785374:912888561110495283>",
+            "https://i.gyazo.com/76f33da9e7d1a42890815050635a3f2d.gif"
+        ]
+    },
+    "Senko": {
+        "$ORIGINAL_PURCHASER_ID": "872518881489612910",
+        "DISPLAY_NAME": "Senko",
+        "EMOJIS": [
+            "<a:SenkoHealth:823126791249068053>",
+            "<a:SenkoEnergy:823126824955412501>",
+            "<a:SenkoExperience:823126849429176390>",
+            "<:SenkoCredits:823126806164013126>",
+            "<:SenkoIntel:823126863911059466>",
+            "<:SenkoEndurance:823126879925698590>",
+            "<:SenkoStrength:823126896354918431>",
+            "<a:SenkoAffection:823126914818244668>",
+            "<a:SenkoGlyc:823126930462343198>",
+            "https://i.gyazo.com/2809a0f699ddf3456cf2fafa07a1e147.gif"
+        ]
+    },
+    "Neko": {
+        "$ORIGINAL_PURCHASER_ID": "216749228087705610",
+        "DISPLAY_NAME": "Neko",
+        "EMOJIS": [
+            "<:NekoHeart:849738658784739348>",
+            "<a:nekoenergy:849738256534339599>",
+            "<:NekoExperience:849739999489687573>",
+            "<:NekoCredits:849738255947268096>",
+            "<a:nekointel:849738257663393852>",
+            "<:nekoendur:849730615212507187>",
+            "<:NekoStrength:849742879743541248>",
+            "<:nekoaffection:849738643845021746>",
+            "<:NekoGlyc:849743325707632670>",
+            "https://i.gyazo.com/de816d94ab9b82a90ac184521554099a.gif"
+        ]
+    },
+    "Umaru": {
+        "$ORIGINAL_PURCHASER_ID": "872518881489612910",
+        "DISPLAY_NAME": "Umaru",
+        "EMOJIS": [
+            "<a:UmaruHealth:861820155661910049>",
+            "<a:UmaruEnergy:861819823025553408>",
+            "<a:UmaruEXP:861819720133771264>",
+            "<:UmaruCredit:861819427809132545>",
+            "<a:UmaruIntel:861820087833067520>",
+            "<a:UmaruEndurance:861820028847915028>",
+            "<a:UmaruStrength:861819635040649216>",
+            "<a:UmaruAffection:861820463369158676>",
+            "<a:UmaruGlyco:861820331492507708>",
+            "https://cdn.discordapp.com/attachments/840728686072037388/861821022734909491/2015-10-31-780930_1.jpeg"
+        ]
+    },
+    "Aqua": {
+        "$ORIGINAL_PURCHASER_ID": "872518881489612910",
+        "DISPLAY_NAME": "Aqua",
+        "EMOJIS": [
+            "<:AquaHealth:854752442888749066>",
+            "<a:AquaEnergy:854752970742956032>",
+            "<a:AquaExperience:854752694883581983>",
+            "<:AquaCredit:854752098414231553>",
+            "<:AquaIntel:854752598165553193>",
+            "<a:AquaEndurance:854752742806519819>",
+            "<:AquaStrength:854752195827204107>",
+            "<:AquaAffection:854752644040359936>",
+            "<:AquaGlyco:854752550028574740>",
+            "https://cdn.discordapp.com/attachments/840728686072037388/854754980128751626/32Owxgo.jpg"
+        ]
+    },
+    "ZeroTwo": {
+        "$ORIGINAL_PURCHASER_ID": "872518881489612910",
+        "DISPLAY_NAME": "ZeroTwo",
+        "EMOJIS": [
+            "<a:02health:829180942164951120>",
+            "<a:02Energy:829180927720292403>",
+            "<a:02Experience:829181719970054154>",
+            "<:02Credits:829180911340879872>",
+            "<a:02Intel:829180874813341756>",
+            "<:02Endurance:829180859559051334>",
+            "<:02Strength:829180837022269490>",
+            "<:02Affection:829180821930770462>",
+            "<:02Gylc:829180810472062977>",
+            "https://i.gyazo.com/2e7eee5c6f29a9ef08433e3e19648a54.jpg"
+        ]
+    },
+    "Rias": {
+        "$ORIGINAL_PURCHASER_ID": "872518881489612910",
+        "DISPLAY_NAME": "Rias",
+        "EMOJIS": [
+            "<a:RiasHealth:829411679330500729>",
+            "<a:RiasEnergy:829411700125204520>",
+            "<a:RiasExperience:829411711824035840>",
+            "<:RiasCredits:829411728470310992>",
+            "<:RiasIntel:829411741812260885>",
+            "<:RiasEndurance:829411758007123968>",
+            "<a:RiasStrength:829411773374660648>",
+            "<a:RiasAffection:829414669202227240>",
+            "<:RiasGylc:829411787312201802>",
+            "https://i.gyazo.com/6fdbec9147c6dec95eb8833ebc8798c6.gif"
+        ]
+    },
+    "Me!Me!Me!": {
+        "$ORIGINAL_PURCHASER_ID": "872518881489612910",
+        "DISPLAY_NAME": "Me!Me!Me!",
+        "EMOJIS": [
+            "<a:MeHealth:829414701108166657>",
+            "<a:MeEnergy:829414718102962217>",
+            "<a:MeExperience:829414743198400555>",
+            "<:MeCredits:829414767730229298>",
+            "<:MeIntel:829414781727146005>",
+            "<a:MeEndurance:829414799850733619>",
+            "<a:MeStrength:829414823938752593>",
+            "<:MeAffection:829414844687188048>",
+            "<:MeGylc:829414905387548703>",
+            "https://i.gyazo.com/6bf336e80b5958e9fa5aa0408e445a80.png"
+        ]
+    },
+    "Astolfo": {
+        "$ORIGINAL_PURCHASER_ID": "872518881489612910",
+        "DISPLAY_NAME": "Astolfo",
+        "EMOJIS": [
+            "<a:AstolfoHealth:821320393524117545>",
+            "<a:AstolfoEnergy:821320383101534222>",
+            "<a:AstolfoExperience:821320710441140274>",
+            "<:AstolfoCredits:821320689981849601>",
+            "<:AstolfoIntel:821320369649614848>",
+            "<a:AstolfoEndurance:821320337777885194>",
+            "<:AstolfoStrength:821320324208656395>",
+            "<:AstolfoAffection:821320309516795935>",
+            "<:AstolfoGylc:821320297755049995>",
+            "https://cdn.discordapp.com/attachments/818635864342659102/821320326876758056/20210316_055242.gif"
+        ]
+    },
+    "Nezuko": {
+        "$ORIGINAL_PURCHASER_ID": "872518881489612910",
+        "DISPLAY_NAME": "Nezuko",
+        "EMOJIS": [
+            "<:NezukoHealth:829760975137275924>",
+            "<:NezukoEnergy:829760989318742026>",
+            "<a:NezukoExperience:829761001389686845>",
+            "<:NezukoCredits:829761025305215036>",
+            "<:NezukoIntel:829761044183253003>",
+            "<a:NezukoEndurance:829761059002777640>",
+            "<a:NezukoStrength:829761075531874404>",
+            "<:NezukoAffection:829761089473478706>",
+            "<:NezukoGylc:829761107232555058>",
+            "https://cdn.discordapp.com/attachments/818635864342659102/829714267040776242/20210408_094305.png"
+        ]
+    },
+    "Megumin": {
+        "$ORIGINAL_PURCHASER_ID": "872518881489612910",
+        "DISPLAY_NAME": "Megumin",
+        "EMOJIS": [
+            "<:MeguminHealth:830115013892767817>",
+            "<:MeguminEnergy:830115026843992064>",
+            "<a:MeguminExperience:830115046595887114>",
+            "<:MeguminCredits:830115061187084412>",
+            "<:MeguminIntel:830115076907335770>",
+            "<:MeguminEndurance:830115092182859777>",
+            "<:MeguStrength:862341567867912203>",
+            "<:MeguAffection:862341347636936755>",
+            "<a:MeguminGlyc:830115146683908166>",
+            "https://cdn.discordapp.com/attachments/818635864342659102/829902545215946793/20210408_221554.jpg"
+        ]
+    },
+    "Nagatoro": {
+        "$ORIGINAL_PURCHASER_ID": "872518881489612910",
+        "DISPLAY_NAME": "Nagatoro",
+        "EMOJIS": [
+            "<a:NagatoroHealth:862401273948012594>",
+            "<:NagatoroEnergy:862401245376937984>",
+            "<:NagatoroEXP:862401723086536725>",
+            "<:NagatoroCredit:862400678312149035>",
+            "<:NagatoroIntel:862401809674010635>",
+            "<:NagatoroEndur:862401889387413505>",
+            "<:NagatoroStrength:862401864468004924>",
+            "<:NagatoroAffection:862401645807271957>",
+            "<:NagatoroGlyco:862399691487838208>",
+            "https://cdn.discordapp.com/attachments/853431803296874527/862403086898036746/tumblr_bde5422840af59cafb8d7d9365bd0bea_c3091d89_1280.png"
+        ]
+    },
+    "Nishi": {
+        "$ORIGINAL_PURCHASER_ID": "872518881489612910",
+        "DISPLAY_NAME": "Oni",
+        "EMOJIS": [
+            "<a:NishioHealth:830134051456811038>",
+            "<:NishioEnergy:830134071073308692>",
+            "<a:NishioExperience:830134091838914600>",
+            "<:OniCredit:838603021976993823>",
+            "<:NishioIntel:830134126916010025>",
+            "<:NishioEndurance:830134144485818408>",
+            "<:OniStrength:838603033822625792>",
+            "<a:NishioAffection:830134226686181487>",
+            "<:NishioGlyc:830134242717466653>",
+            "https://cdn.discordapp.com/attachments/818635864342659102/838601465475104798/20210502_222050.png"
+        ]
+    },
+    "Albedo": {
+        "$ORIGINAL_PURCHASER_ID": "872518881489612910",
+        "DISPLAY_NAME": "Albedo",
+        "EMOJIS": [
+            "<a:AlbedoHealth:831016789227733012>",
+            "<a:AlbedoEnergy:831016806621773865>",
+            "<a:AlbedoExperience:831016840301510687>",
+            "<:AlbedoCredit:831016858484342815>",
+            "<:AlbedoIntel:831016873801678888>",
+            "<:AlbedoEndurance:831016889110757416>",
+            "<a:AlbedoStrength:831016904431763498>",
+            "<a:AlbedoAffection:831016918935928872>",
+            "<a:AlbedoGlyc:831016931565633557>",
+            "https://cdn.discordapp.com/attachments/818635864342659102/831015625505636372/Albedo.Overlord.full.2913730.jpg"
+        ]
+    },
+    "Chika": {
+        "$ORIGINAL_PURCHASER_ID": "872518881489612910",
+        "DISPLAY_NAME": "Chika",
+        "EMOJIS": [
+            "<a:ChikaHealth:832320156255649822>",
+            "<a:ChikaEnergy:832320170949214328>",
+            "<a:ChikaExperience:832320237428408341>",
+            "<:ChikaCredit:832320283838775298>",
+            "<:ChikaIntel:832320310442590278>",
+            "<:ChikaEndurance:832320334836924456>",
+            "<a:ChikaStrength:832321738053386340>",
+            "<:ChikaAffection:832320428508708934>",
+            "<a:ChikaGlyc:832320442139279361>",
+            "https://cdn.discordapp.com/attachments/818635864342659102/831596829257760808/1618338011628.png"
+        ]
+    },
+    "Mai": {
+        "$ORIGINAL_PURCHASER_ID": "872518881489612910",
+        "DISPLAY_NAME": "Mai",
+        "EMOJIS": [
+            "<a:MaiHealth:834962811745730570>",
+            "<:MaiEnergy:837104472064393256>",
+            "<:MaiExperience:837104460186517524>",
+            "<:MaiCredits:834962853541970010>",
+            "<:MaiIntel:834962870680682526>",
+            "<:MaiEndurance:837105193942253588>",
+            "<a:MaiStrength:837104485611601932>",
+            "<a:MaiAffection:834962911842795530>",
+            "<a:MaiGlyc:834962958404026409>",
+            "https://cdn.discordapp.com/attachments/818635864342659102/834861046744350750/dd1vtre-99ceba9a-8c1c-4859-adea-733dd2cf2b22.png"
+        ]
+    },
+    "Rikka": {
+        "$ORIGINAL_PURCHASER_ID": "872518881489612910",
+        "DISPLAY_NAME": "Rikka",
+        "EMOJIS": [
+            "<a:RikkaHealth:836353804504793088>",
+            "<:RikkaEnergy:836353829892915200>",
+            "<a:RikkaExp:836353843691257887>",
+            "<:RikkaCredit:836353861564104785>",
+            "<:RikkaIntel:836353877040955422>",
+            "<:RikkaEndurance:836353893029117962>",
+            "<:RikkaStrength:836353907789266984>",
+            "<:RikkaAffection:836353937148739584>",
+            "<a:RikkaGlyc:836353955176775710>",
+            "https://cdn.discordapp.com/attachments/818635864342659102/834895852606455908/takanashi_rikka_chuunibyou_demo_koi_ga_shitai_drawn_by_komeshiro_kasu__a5eb81ef8017c2cf98140e65c2246.png"
+        ]
+    },
+    "Shiro": {
+        "$ORIGINAL_PURCHASER_ID": "872518881489612910",
+        "DISPLAY_NAME": "Shiro",
+        "EMOJIS": [
+            "<a:ShiroHealth:836377647000191006>",
+            "<:ShiroEnergy:836377666122678272>",
+            "<:ShiroExperience:836377732455202856>",
+            "<:ShiroCredits:836377746518310933>",
+            "<:ShiroIntel:836377763187130369>",
+            "<a:ShiroEndur:836377778612994081>",
+            "<a:ShiroStrength:836377794665513041>",
+            "<:ShiroAffection:836377808610656296>",
+            "<a:ShiroGlyc:836377822087086091>",
+            "https://cdn.discordapp.com/attachments/818635864342659102/834959008401850378/hz1gpkf63mp41.jpg"
+        ]
+    },
+    "Weebchan": {
+        "$ORIGINAL_PURCHASER_ID": "872518881489612910",
+        "DISPLAY_NAME": "Weeb~chan",
+        "EMOJIS": [
+            "<a:WeebHealth:836363519716360212>",
+            "<:WeebEnergy:836363549395648524>",
+            "<a:WeebExp:836363569343496242>",
+            "<:WeebCredit:836363587252518954>",
+            "<:WeebIntel:836363601740562463>",
+            "<:WeebEndur:836363616663765013>",
+            "<a:WeebStrength:836363640830689280>",
+            "<a:WeebAffection:836365448362065960>",
+            "<a:WeebGlyc:836365231805562890>",
+            "https://cdn.discordapp.com/attachments/818635864342659102/836298919726153838/PicsArt_04-26-01.38.50.jpg"
+        ]
+    },
+    "SemiMute": {
+        "$ORIGINAL_PURCHASER_ID": "872518881489612910",
+        "DISPLAY_NAME": "SemiMute",
+        "EMOJIS": [
+            "<:Semihealth:838596605921722408>",
+            "<a:RainbowDance:790461343898533909>",
+            "<a:SemiExperience:838621437576609792>",
+            "<:SemiCredits:838596648955150386>",
+            "<:SemiIntel:838596665500762152>",
+            "<:SemiEndurance:838596679418380319>",
+            "<:SemiStrength:838596695708270592>",
+            "<a:SemiAffection:838631288461590528>",
+            "<:SemiGlyc:838596731356315679>",
+            "https://i.gyazo.com/42500f59508502563a8b4b57b8af9e27.png"
+        ]
+    },
+    "Sagiri": {
+        "$ORIGINAL_PURCHASER_ID": "872518881489612910",
+        "DISPLAY_NAME": "Sagiri",
+        "EMOJIS": [
+            "<a:SagiriHealth:838621436758196265>",
+            "<:SagiriEnergy:838621199402795058>",
+            "<a:SagiriExperience:838621439007391754>",
+            "<:SagiriCredits:838621398070984745>",
+            "<:SagiriIntel:838621330923716630>",
+            "<:SagiriEndurance:838621436855713862>",
+            "<:SagiriStrength:838621436750200842>",
+            "<:SagiriAffection:838621436565520435>",
+            "<:SagiriGlyc:838620766077452319>",
+            "https://cdn.discordapp.com/attachments/818635864342659102/838611807026806824/051c453529b4b5f514bd4b312896d862.png"
+        ]
+    },
+    "Shir": {
+        "$ORIGINAL_PURCHASER_ID": "872518881489612910",
+        "DISPLAY_NAME": "Shiro",
+        "EMOJIS": [
+            "<a:ShirHealth:839714147146268672>",
+            "<:ShirEnergy:839714163781926933>",
+            "<:ShirExperience:839714184853585920>",
+            "<:ShirCredits:839714204558688287>",
+            "<:ShirIntel:839714220764561458>",
+            "<:ShirEndurance:839714241010991126>",
+            "<a:ShirStrength:839714255997501441>",
+            "<:ShirAffection:839714290050269205>",
+            "<:ShirGlyc:839714307146645534>",
+            "https://cdn.discordapp.com/attachments/818635864342659102/839678555302395934/c1443529a65395f7d48c17e5dd7a492c.jpg"
+        ]
+    },
+    "Rin": {
+        "$ORIGINAL_PURCHASER_ID": "872518881489612910",
+        "DISPLAY_NAME": "Rin",
+        "EMOJIS": [
+            "<a:RinHealth:839718025083092992>",
+            "<:RinEnergy:839718044191424533>",
+            "<a:RinExperience:839718067436650526>",
+            "<:RinCredit:839718100274118666>",
+            "<:RinIntel:839718116640686091>",
+            "<a:RinEndurance:839718130958860329>",
+            "<:RinStrength:839718150785990687>",
+            "<a:RinAffection:839718163993198632>",
+            "<:RinGlyc:839718177490993172>",
+            "https://cdn.discordapp.com/attachments/818635864342659102/839687220260503690/EuhtgVcXEAI9-C3.jpg"
+        ]
+    },
+    "HatsuneMiku": {
+        "$ORIGINAL_PURCHASER_ID": "872518881489612910",
+        "DISPLAY_NAME": "Hatsune Miku",
+        "EMOJIS": [
+            "<:HatsuneHealth:836847884820414514>",
+            "<:HatsuneEnergy:836847901736566794>",
+            "<a:HatsuneExperience:836847918765703170>",
+            "<:HatsuneCredit:836847941486379069>",
+            "<:HatsuneIntel:836847969709719622>",
+            "<:HatsuneEndurance:836847993570328576>",
+            "<:HatsuneStrength:836848010872881203>",
+            "<a:HatsuneAffection:836848024436211742>",
+            "<:HatsuneGlyc:836848037401460756>",
+            "https://cdn.discordapp.com/attachments/818635864342659102/836444135258980412/DXkfRGcWAAAf5RM.jpg"
+        ]
+    },
+    "Yuno": {
+        "$ORIGINAL_PURCHASER_ID": "872518881489612910",
+        "DISPLAY_NAME": "Yuno",
+        "EMOJIS": [
+            "<a:YunoHealth:837099519288016916>",
+            "<a:YunoEnergy:837099535628763176>",
+            "<a:YunoExperience:837099549742071879>",
+            "<a:YunoCredit:837099648619380778>",
+            "<:YunoIntel:837099882866671627>",
+            "<:YunoEndurance:837099852193726474>",
+            "<a:YunoStrength:837099897706643486>",
+            "<a:YunoAffection:837099912940093491>",
+            "<:YunoGlyc:837099942346227763>",
+            "https://cdn.discordapp.com/attachments/818635864342659102/836613624478957668/6f4d130f5be85fb9833f47c439ba01ac.jpg"
+        ]
+    },
+    "Tohru": {
+        "$ORIGINAL_PURCHASER_ID": "872518881489612910",
+        "DISPLAY_NAME": "Tohru",
+        "EMOJIS": [
+            "<a:TohruHealth:840739200412418111>",
+            "<a:TohruEnergy:840739572131954718>",
+            "<a:TohruExperience:840739140999577611>",
+            "<:TohruCredit:840739328921305108>",
+            "<:TohruIntel:840739164336816139>",
+            "<:TohruEndurance:840739087912403014>",
+            "<a:TohruStrength:840739059973750845>",
+            "<a:TohruAffection:840739108841586770>",
+            "<a:TohruGlycogenesis:840739298248359957>",
+            "https://cdn.discordapp.com/attachments/818635864342659102/840660292438458398/863.png"
+        ]
+    },
+    "Lucoa": {
+        "$ORIGINAL_PURCHASER_ID": "872518881489612910",
+        "DISPLAY_NAME": "Lucoa",
+        "EMOJIS": [
+            "<a:LucoaHealth:840740188979462194>",
+            "<a:LucoaEnergy:840739989356412969>",
+            "<a:LucoaExperience:840740071849721908>",
+            "<:LucoaCredit:840740212526153758>",
+            "<:LucoaIntel:840740010922606624>",
+            "<:LucoaEndurance:840740092658188299>",
+            "<:LucoaStrength:840740171003461643>",
+            "<:LucoaAffection:840740145518608414>",
+            "<:LycoaGlycogenesis:840740036075978772>",
+            "https://cdn.discordapp.com/attachments/818635864342659102/840661924387749928/Lucoa.full.2138842.png"
+        ]
+    },
+    "Gura": {
+        "$ORIGINAL_PURCHASER_ID": "872518881489612910",
+        "DISPLAY_NAME": "Gura",
+        "EMOJIS": [
+            "<:GuraHealth:841278085700517889>",
+            "<:GuraEnergy:841277667143057419>",
+            "<a:GuraExperience:841272323544711178>",
+            "<:GuraCredit:841278710882500619>",
+            "<a:GuraIntel:841277797867454465>",
+            "<:GuraEndurance:841275786329718834>",
+            "<:GuraStrength:841273549166739478>",
+            "<a:GuraAffection:841272671127076915>",
+            "<:GuraGlyco:841273425854332938>",
+            "https://cdn.discordapp.com/attachments/818635864342659102/841308000572538890/u-o-s-a-shark-final-resized.jpg"
+        ]
+    },
+    "Discordchan": {
+        "$ORIGINAL_PURCHASER_ID": "872518881489612910",
+        "DISPLAY_NAME": "Discord~chan",
+        "EMOJIS": [
+            "<a:DiscordHealth:853780580827398144>",
+            "<a:DiscordEnergy:853780799664422924>",
+            "<a:DiscordExperience:853780620857573378>",
+            "<:DiscordCredit:853780703266209862>",
+            "<:DiscordIntel:853759004753002536>",
+            "<:DiscordEndurance:854086563913662475>",
+            "<:DiscordStrength:853760414101667890>",
+            "<a:DiscordAffection:853780726943186994>",
+            "<a:DiscordGlyco:853780765792141342>",
+            "https://cdn.discordapp.com/attachments/840728686072037388/853781255568359444/wdsca9rrtly41.png"
+        ]
+    },
+    "Semismom": {
+        "$ORIGINAL_PURCHASER_ID": "872518881489612910",
+        "DISPLAY_NAME": "Semi's Mom",
+        "EMOJIS": [
+            "<:semis_mom_health:907862404489162833>",
+            "<a:semis_mom_energy:907862129598677023>",
+            "<a:semis_mom_exp:907862258841952307>",
+            "<:semis_mom_credit:907862617144586251>",
+            "<a:semis_mom_intel:907871067270447155>",
+            "<:semis_mom_endurance:907862175148814336>",
+            "<:semis_mom_strength:907862303943315477>",
+            "<a:semis_mom_affection:907862153577521192>",
+            "<a:semis_mom_glyco:907862234829553664>",
+            "https://cdn.discordapp.com/attachments/840728686072037388/907863247464579142/20211109_225509.gif"
+        ]
+    },
+    "Toga": {
+        "$ORIGINAL_PURCHASER_ID": "373197170456788994",
+        "DISPLAY_NAME": "Toga Himiko",
+        "EMOJIS": [
+            "<:health:832057069338230814>",
+            "<:energy:832057876213530665>",
+            "<:xp:832054484590788658>",
+            "<:credits:832056619751702559>",
+            "<:togaintel:832052452723130418>",
+            "<:endur:832056151549804574>",
+            "<:strength:832057413405376522>",
+            "<:togaaff:832051882364108840>",
+            "<:togagly:832052861067198494>",
+            "https://cdn.discordapp.com/attachments/812382596389404705/832060625576394752/embed_picture.jpg"
+        ]
+    },
+    "Rem": {
+        "$ORIGINAL_PURCHASER_ID": "872518881489612910",
+        "DISPLAY_NAME": "Rem",
+        "EMOJIS": [
+            "<a:RemHealth:820874411526848533>",
+            "<a:RemEnergy:820874423317823528>",
+            "<a:RemExperience:820875174990708748>",
+            "<:RemCredits:820875196377333773>",
+            "<:RemIntel:820875218271862815>",
+            "<a:RemEndur:820875234411675669>",
+            "<:RemStrength:820875244579061760>",
+            "<:RemAffection:820875260475211806>",
+            "<:RemGylc:820875270654918656>",
+            "https://cdn.discordapp.com/attachments/818635864342659102/821134151612629032/327835167048201.jpg"
+        ]
+    }
+}

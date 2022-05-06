@@ -1,0 +1,51 @@
+extends layout
+
+block title
+    +Title('Dashboard')
+
+block section
+    section
+        .container-fluid
+            .row
+                .col-xl-10.col-lg-9.col-md-8.pl-3.ml-auto
+                    .row.pt-5.mt-3.mb-5
+                        .col-sm-12
+                            .image-wrapper.px-3.float-left
+                                img(src="https://cdn.discordapp.com/avatars/671708767813107724/153a32a25084dc9f445406e4ef0f918f.webp", width="170")
+                            .single-post-content-wrapper.p-3
+                                span.font-weight-bold Erza is a bot designed by ツ $tatic#4542 and is mainly an Economy bot. Economy refers to money; we try to offer an easy but fun experience for both new and experienced users. It was created on Tue Jan 28 2020 13:30:49 GMT+0000 (Coordinated Universal Time)
+
+    hr
+    section
+        .container-fluid
+            .row.mb-5
+                .col-xl-10.col-lg-9.col-md-8.ml-auto
+                    .row
+                        .col-12
+                            h3.text-muted.text-center.mb-3 Commands
+                            table.table.table-dark.table-hover.text-center#commands
+                                thead
+                                    tr.text-muted
+                                        th #
+                                        th Name
+                                        
+                                        th Description
+                                        th Usage
+                                        th.d-none.d-sm-table-cell Cooldown
+                                tbody
+                                    - var i = 0;
+
+                                    - for (let [name, details] of Array.from(commands))
+                                        tr
+                                            th= ++i
+                                            td= name
+                                           
+                                            td= details.description
+                                            td= details.usage
+                                            td.d-none.d-sm-table-cell= details.cooldown > 0 ? ms(client.commands.cooldown) : '-'
+                            .pagination-container
+                                nav
+                                    ul.pagination.justify-content-center
+
+block js
+    script(src="js/index.js")

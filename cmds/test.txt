@@ -1,0 +1,26 @@
+UNIX(#start_time,)
+
+GETSLOTITEMINV(36,,,,&nbt)
+#start_counter = MATCH("%&nbt%", "mined_crops:(\d*)",,1)
+
+DO
+  UNIX(#current_time,)
+  #time_since_start = #current_time - #start_time
+  &time = SECTOTIME(%#time_since_start%)
+
+  GETSLOTITEMINV(36,,,,&nbt)
+  IFCONTAINS(%&nbt%, "mined_crops")
+    #current_counter = MATCH("%&nbt%", "mined_crops:(\d*)",,1)
+    #current_counter = #current_counter - #start_counter
+    #coins_earned = #current_counter * 3
+  ENDIF
+
+  &label_line1 = "&7IGN: &d%PLAYER%"
+  &label_line2 = "&d%XPOSF%&7 / &d%YPOSF%&7 / &d%ZPOSF%"
+  &label_line3 = "&7Time since started farming: &d%&time%"
+  &label_line4 = "&7Wart farmed: &d%#current_counter%, &7Coins Earned: &d%#coins_earned%"
+
+  &label = "&dWART OVERLAY\n&7-----------------\n %&label_line1%\n %&label_line2%\n %&label_line3%\n %&label_line4%\n&7-----------------\n"
+
+  SETLABEL(adver, %&label%)
+LOOP

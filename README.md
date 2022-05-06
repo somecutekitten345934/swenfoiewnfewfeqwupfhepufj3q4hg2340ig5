@@ -1,2 +1,2 @@
-# swenfoiewnfewfeqwupfhepufj3q4hg2340ig5
- 
+# Weebineers
+ Social Economy discord bot
